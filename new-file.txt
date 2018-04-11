@@ -26,4 +26,4 @@ one more
 3:34echoed line
 one more thing
 new line
-introduce conflict
+reintroduce conflict
