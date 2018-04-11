@@ -29,3 +29,4 @@ new line
 introduce conflicting change
 Edited in Jupyter.
 Line added in Jupyter.
+Line added in Jupyter.
