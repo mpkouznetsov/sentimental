@@ -28,4 +28,4 @@ one more thing
 new line
 reintroduce conflict
 More stuff.
-
+Line added on Mac.
