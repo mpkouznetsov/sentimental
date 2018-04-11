@@ -27,3 +27,4 @@ one more
 one more thing
 new line
 introduce conflicting change
+Edited in Jupyter.
