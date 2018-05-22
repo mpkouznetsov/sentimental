@@ -1,31 +1,3 @@
 something
-, something else
-, something else 2
-, something else 3
-
-Edited with Jupyter notebook.
-And again.
-And again.
-one more
-4/10/2018, 9:46
-4/10/2018, 9:56
-
-4/10/2018, 10:02
-4/10/2018, 10:07
-4/10/2018, 10:12
-10:18
-11:47
-12:20
-1:17
-1:55
-2:27
-2:31
-2:42
-3:28
-3:33
-3:34echoed line
-one more thing
-new line
-reintroduce conflict
-More stuff.
-Line added on Mac.
+else
+changed
